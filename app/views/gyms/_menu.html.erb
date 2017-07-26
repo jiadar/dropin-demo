@@ -1,0 +1,10 @@
+<%= link_to "Check In", gyms_checkin_path(@cur_gym.id) %> <br>
+<%= link_to "Reservations", gyms_reservations_path(@cur_gym.id) %> <br>
+<%= link_to "User Info", gyms_user_info_path(@cur_gym.id) %> <br>
+<%= link_to "Memberships", gyms_memberships_path(@cur_gym.id) %> <br>
+<%= link_to('Logout', destroy_user_session_path, method: :delete) %> <br>
+
+
+  
+
+

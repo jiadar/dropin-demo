@@ -1,0 +1,26 @@
+<h3> Checkin for <%= @cur_gym.gym_name %> </h3>
+
+<%= render "menu" %>
+
+<h4>Check in for <%= @e.description %> at <%= @e.date %></h4>
+<ui>
+<% @r.each do |r| %>
+  <% if (! r.checked_in) %>
+    <li><%= link_to "#{r.user.name}", checkin_path(r)  %>
+    </li>
+  <% end %>
+<% end %>
+
+<br>
+<h5>Checked In:</h5>
+<ul>
+  <% @r.each do |r| %>
+    <% if (r.checked_in) %>
+      <li><%= r.user.name %></li>
+    <% end %>
+<% end %>
+</ul>
+
+    
+
+

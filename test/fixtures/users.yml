@@ -1,0 +1,78 @@
+
+user_ross:
+  gym: fcfc
+  email: ross@teamengine.org
+  encrypted_password: $2a$11$qiZx3lXVJHTR7jYe5yKfQOmJP7R0ToQcsd1dRJdA/qfvOmLxPhPbW
+  authentication_token: qvn4Z6DRFovrvSDpP8aD
+  name: Ross Capdeville
+  username: jiadar
+  dob: 1989-10-24
+  address: 1618 Sullivan Ave Daly City, CA 94015
+  latitude: 37.7012746
+  longitude: -122.4592959
+  is_gym: t
+  friends: user_brian, user_jack
+
+user_brian:
+  email: brian@bitme.com
+  encrypted_password: $2a$11$qoDuLwjn4hEQgMR6lkRWSemSt8emCRvl4T08NKdG./RwkfRk1IX2m
+  authentication_token: iafCs4LysxRzjRAQ1ejg
+  name: Brian Nguyen
+  username: brian
+  dob: 1999-09-17
+  address: 1249 Terra Bella Ave Mountain View, CA 94041
+  latitude: 37.6873301
+  longitude: -122.4725812
+  friends: user_ross, user_jack
+
+user_jack:
+  email: jack@bigmac.com
+  encrypted_password: $2a$11$E/FsjDsgJ8svqqLRebuW/uoM6F8uwaY0QsCUEJJC1rUUNL6DwsI/q
+  authentication_token: iafCs4LysxRzjRAQ1ejg
+  name: Jack Ricketts
+  username: jack
+  dob: 2000-08-01
+  address: 31 Lausanne Ave Daly City, CA 94014
+  latitude: 37.7445308
+  longitude: -122.4209292
+  friends: user_ross, user_brian
+
+gym_serao:
+  gym: serao
+  email: gym1@gym.com
+  encrypted_password: $2a$11$E/FsjDsgJ8svqqLRebuW/uoM6F8uwaY0QsCUEJJC1rUUNL6DwsI/q
+  authentication_token: iafCs4LysxRzjRAQ1ejg
+  name: Leo Serao
+  username: serao
+  address: 580 N Rengstorff Ave, Mountain View, CA 94043
+  is_gym: t
+  latitude: 37.6971405
+  longitude: -122.4844743
+
+gym_bay_mission:
+  gym: bay_mission
+  email: gym2@gym.com
+  encrypted_password: $2a$11$E/FsjDsgJ8svqqLRebuW/uoM6F8uwaY0QsCUEJJC1rUUNL6DwsI/q
+  authentication_token: iafCs4LysxRzjRAQ1ejg
+  name: Travis Magilet
+  username: tbone
+  address: 3274 Mission St, San Francisco, CA 94110
+  is_gym: t
+  latitude: 37.4090506
+  longitude: -122.0795843
+
+gym_bickram_dc:
+  gym: bickram_dc
+  email: gym3@gym.com
+  encrypted_password: $2a$11$E/FsjDsgJ8svqqLRebuW/uoM6F8uwaY0QsCUEJJC1rUUNL6DwsI/q
+  authentication_token: iafCs4LysxRzjRAQ1ejg
+  name: Yogi Togi
+  username: yogi
+  address: 203 Southgate Ave, Daly City, CA 94015
+  is_gym: t
+  latitude: 37.4113171
+  longitude: -122.0944520
+
+
+
+

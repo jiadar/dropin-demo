@@ -1,0 +1,14 @@
+# //TODO: (ross) fix has and belongs to many relation
+#
+# ga1:
+#   gym: serao
+#   activity: BJJ
+
+# ga2:
+#   gym: bay_mission
+#   activity: BJJ
+
+# ga3:
+#   gym: bickram_dc
+#   activitiy: Yoga
+

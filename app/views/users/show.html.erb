@@ -1,0 +1,13 @@
+<h3>
+  Hello, <%= @username %>
+</h3>
+<br><br>
+  <% if @user_has_a_gym %>
+    This is your personal user page.
+<br><br>
+You can also go to your gym page for
+<%= link_to @gym_data.gym_name, gym_home_path(@gym_data) %>
+
+    <% end %>
+
+</h3>

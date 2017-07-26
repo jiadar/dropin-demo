@@ -1,0 +1,21 @@
+membership_1:
+  subscription: sub_1
+  gym: serao
+
+membership_2:
+  subscription: sub_1
+  gym: bay_mission
+
+membership_3:
+  subscription: sub_2
+  gym: serao
+
+membership_4:
+  subscription: sub_2
+  gym: bay_mission
+
+
+
+
+
+

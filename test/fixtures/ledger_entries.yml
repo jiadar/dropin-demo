@@ -1,0 +1,24 @@
+le_1:
+  user: user_ross
+  date: 2017-05-21 08:32:17
+  credit: 105.0
+  memo: "Credits Purchase"
+
+le_2:
+  user: user_ross
+  date: 2017-05-24 08:32:17
+  debit: 2.7
+  memo: "Jiu Jitsu"
+
+le_3:
+  user: user_ross
+  date: 2017-05-26 08:32:17
+  debit: 2.3
+  memo: "Jiu Jitsu"
+
+le_4:
+  user: user_ross
+  date: 2017-05-29 08:32:17
+  debit: 2.7
+  memo: "Jiu Jitsu"
+

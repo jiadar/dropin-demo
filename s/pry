@@ -1,0 +1,3 @@
+#!/bin/bash
+
+pry -r ~/work/dropin/config/environment

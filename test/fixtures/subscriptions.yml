@@ -1,0 +1,17 @@
+sub_1:
+  user: user_ross
+  interval: "M"
+  next_renewal: 2017-06-29
+  credits: 200.0
+  price: 139.99
+  active: t
+
+sub_2:
+  user: user_brian
+  interval: "M"
+  next_renewal: 2017-06-23
+  credits: 170.00
+  price: 120.00
+  active: t
+
+  

@@ -1,0 +1,5 @@
+#!/bin/bash
+rake db:purge
+rake db:schema:load
+rake db:fixtures:load
+

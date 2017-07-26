@@ -1,0 +1,3 @@
+#!/bin/bash
+ruby ~/work/dropin/s/api-examples.rb
+

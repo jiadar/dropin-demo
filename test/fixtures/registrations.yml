@@ -1,0 +1,19 @@
+registration_1:
+  user: user_brian
+  event: event_1
+  registered_on: 2017-07-01 03:26:59
+  checked_in: f
+  
+registration_2:
+  event: event_1
+  user: user_jack
+  registered_on: 2017-07-01 03:26:59
+  checked_in: f
+
+registration_3: 
+  user: user_ross
+  event: event_1
+  registered_on: 2017-07-01 03:26:59
+  checked_in: f
+
+  
